@@ -15,9 +15,11 @@ To run a basic example and visualize particle trajectories in Mercury’s magnet
 
 ### References :
 
-**KT17 model**
+**KT17 model**  
+
 Korth, H., N. A. Tsyganenko, C. L. Johnson, L. C. Philpott, B. J. Anderson, M. M. Al Asad, S. C. Solomon, and R. L. McNuttJr. (2015), Modular model for Mercury's magnetospheric magnetic field confined within the average observed magnetopause. J. Geophys. Res. Space Physics, 120, 4503–4518. doi: 10.1002/2015JA021022.
 https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JA021022
 
-**KT17 library**
+**KT17 library**  
+
 https://github.com/mattkjames7/KT17
